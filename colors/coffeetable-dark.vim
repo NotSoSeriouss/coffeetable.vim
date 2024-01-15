@@ -9,18 +9,18 @@ syntax reset
 endif
 
 set t_Co=256
-let g:colors_name = "coffeetable-dark"
+let g:colors_name = "coffeetable"
 
 
 " Define reusable colorvariables.
-let s:bg="#276535"
+let s:bg="#39573c"
 let s:fg="#151515"
 let s:fg2="#131313"
 let s:fg3="#121212"
 let s:fg4="#101010"
-let s:bg2="#387145"
-let s:bg3="#4a7e55"
-let s:bg4="#5b8a65"
+let s:bg2="#49644c"
+let s:bg3="#59725b"
+let s:bg4="#697f6b"
 let s:keyword="#e3cf80"
 let s:builtin="#cf6647"
 let s:const= "#91f84b"
